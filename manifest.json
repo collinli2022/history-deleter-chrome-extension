@@ -1,0 +1,25 @@
+{
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "description": "Gives a popup to list and delete history on a domain.",
+  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/history-deleter",
+  "browser_action": {
+    "default_title": "History deleter",
+    "default_popup": "popup.html",
+    "default_icon": "icons/history.svg"
+  },
+  "icons": {
+    "48": "icons/history.svg",
+    "96": "icons/history.svg"
+  },
+  "permissions": [
+    "activeTab",
+    "history",
+    "tabs",
+    "storage"
+  ],
+  "manifest_version": 2,
+  "name": "History Deleter",
+  "version": "1.0"
+}
