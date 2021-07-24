@@ -7,6 +7,8 @@ Yes... we all know why we are here. This is a automatic history deleter inspired
 ## How to install
 So you want to know how to get it. Yay! Download this zip file of this github and then unzip it into a safe directory like your desktop. Then go to your extensions tab on your web browser. Finally, click on the "Load unpacked" button and select the unziped folder. Yay, now go have fun!
 
+<img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/15065849/4-3.png" alt="drawing" width="200"/>
+
 For more information on how to install an unpacked extension visit this youtube tutorial: https://www.youtube.com/watch?v=hIRX1dpfqHc.
 
 **Disclamer: This extension only works for chromium based browsers such as: Vivaldi, Brave, Microsoft Edge, Epic Privacy Browser, Comodo Dragon, SlimBrowser, Torch, and (obviously) Chrome. If you use firefox... why? However, you can still probably find a way to install this AwEsoME extension.**
