@@ -7,11 +7,10 @@
   "browser_action": {
     "default_title": "History deleter",
     "default_popup": "popup.html",
-    "default_icon": "icons/history.svg"
+    "default_icon": "icons/tt2.png"
   },
   "icons": {
-    "48": "icons/history.svg",
-    "96": "icons/history.svg"
+    "128": "icons/tt2.png"
   },
   "permissions": [
     "activeTab",
