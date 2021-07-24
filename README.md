@@ -5,7 +5,7 @@
 Yes... we all know why we are here. This is a automatic history deleter inspired due to "personal" events. 
 
 ## How to install
-So you want to know how to get it. Yay! Download this zip file of this github and then unzip it into a safe directory like your desktop. Then go to your extensions tab on your web browser. Finally, click on the "Load unpacked" button and select the unziped folder. Yay, now go have fun!
+So you want to know how to get it. Yay! Download this zip file of this github and then unzip it into a safe directory like your desktop. Then go to your extensions tab on your web browser and enable Developer Mode (a toggle switch usually in the top right corner). Finally, click on the "Load unpacked" button and select the unziped folder. Yay, now go have fun!
 
 <img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/15065849/4-3.png" alt="drawing" width="1000"/>
 
